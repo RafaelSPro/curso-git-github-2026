@@ -3,3 +3,5 @@ cd -> move dentro do diretório
 pwd -> ver o caminho onde você está no diretório
 ls -a -> ver arquivos e pastas ocultas
 rm -rf -> remove de maneira recursiva e irreversível arquivos e pastas
+
+foda-se
