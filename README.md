@@ -3,3 +3,7 @@
 Um curso para iniciantes aprenderem a trabalhar com versionamento de código, branchs e a ligação entre git e o github como serviço remoto
 
 Além disso, vamos trabalhar com gitflow  ao final do curso e visual studio code
+
+Além do nosso youtube se liga no nosso site e agenda para ficar por dentro de tudo vai rolar em 2025
+
+[teomewhy.org](https://teomewhy.org/schedule)
